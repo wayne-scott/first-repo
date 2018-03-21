@@ -9,5 +9,10 @@ namespace Hello
             Console.WriteLine("Hello GitHub");
             Console.WriteLine("I need another change!");
         }
+
+        private void NewMethod()
+        {
+
+        }
     }
 }
